@@ -7,6 +7,7 @@
 #include <windows.h>
 using namespace std;
 
+
 HANDLE consoleHandle = GetStdHandle(STD_OUTPUT_HANDLE);
 bool enter = false;
 

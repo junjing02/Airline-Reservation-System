@@ -20,4 +20,4 @@ Flight Details
 35 selangor 1900
 30 selangor 2100
 42 melaka 1030
-98 johor 1231
+98 johor 1232

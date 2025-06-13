@@ -33,6 +33,3 @@ Administrators (default credentials: `admin`/`admin`) can:
 2. Run the executable; the console window will maximize at startup.
 3. Follow on-screen prompts to navigate user or admin menus.
 
-
-
-
