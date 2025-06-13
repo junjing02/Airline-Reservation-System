@@ -5,6 +5,3 @@ user3 password3
 user4 password4
 hey hey12345
 user5 password5
-junjing02 Kamparminiairportpass123~
-ting tingting
-elise 12345678

@@ -17,6 +17,3 @@ user4 41 melaka 1234 premium 52
 user3 12 selangor 2000 premium 46
 user5 68 kl 1845 standard 25
 user5 42 melaka 1030 premium 52
-junjing02 42 selangor 1200 premium 46
-ting 63 selangor 1500 premium 46
-elise 54 johor 1800 premium 88
