@@ -1,4 +1,4 @@
-# Flight Booking System
+# Airline Reservation System
 
 **Course:** Programming Concepts and Practices
 
