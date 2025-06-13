@@ -1,0 +1,22 @@
+Booked Details
+user1 94 kedah 0745 premium 58
+user1 68 kl 1845 premium 50
+user1 41 melaka 1234 standard 26
+user1 11 penang 2330 premium 68
+user2 41 melaka 1234 standard 26
+user2 24 selangor 1752 premium 46
+user2 98 kl 1335 standard 25
+user2 11 penang 2330 premium 68
+user2 42 johor 1933 premium 88
+user2 42 kedah 1222 premium 58
+user2 10 johor 1200 premium 88
+user3 10 johor 1200 premium 88
+user4 69 selangor 1933 standard 23
+user4 41 melaka 1234 premium 52
+user4 41 melaka 1234 premium 52
+user3 12 selangor 2000 premium 46
+user5 68 kl 1845 standard 25
+user5 42 melaka 1030 premium 52
+junjing02 42 selangor 1200 premium 46
+ting 63 selangor 1500 premium 46
+elise 54 johor 1800 premium 88

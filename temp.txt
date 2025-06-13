@@ -1,0 +1,22 @@
+Flight Details
+10 johor 1200
+11 penang 2330
+41 melaka 1234
+67 melaka 1211
+69 selangor 1933
+24 selangor 1752
+42 johor 1933
+42 kedah 1222
+54 johor 1800
+42 selangor 1200
+54 selangor 2338
+98 kl 1335
+68 kl 1845
+63 penang 0600
+83 johor 2030
+94 kedah 0745
+63 selangor 1500
+94 selangor 1700
+35 selangor 1900
+30 selangor 2100
+42 melaka 1030
