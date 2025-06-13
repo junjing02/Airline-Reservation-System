@@ -29,10 +29,10 @@ Administrators (default credentials: `admin`/`admin`) can:
 
 ## Usage
 
-1. Compile with a Windows-compatible C++ compiler (e.g., MSVC or MinGW).
+1. Compile with a Windows-compatible C++ compiler.
 2. Run the executable; the console window will maximize at startup.
 3. Follow on-screen prompts to navigate user or admin menus.
 
----
 
-*Assignment for Programming Concepts and Practices Course*
+
+
